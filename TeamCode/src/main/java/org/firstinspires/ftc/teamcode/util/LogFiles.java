@@ -36,7 +36,7 @@ import fi.iki.elonen.NanoHTTPD;
 
 public final class LogFiles {
     private static final File ROOT =
-            new File(AppUtil.ROOT_FOLDER + "/RoadRunner/logs/");
+            new File(AppUtil.ROOT_FOLDER + "/RoadRunnersfdsf/logs/");
 
     public static LogFile log = new LogFile("uninitialized");
 
