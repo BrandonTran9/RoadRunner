@@ -1,5 +1,5 @@
 package org.firstinspires.ftc.teamcode.drive;
-
+/*
 import androidx.annotation.NonNull;
 
 import com.acmerobotics.dashboard.config.Config;
@@ -25,6 +25,7 @@ import java.util.List;
  *    \--------------/
  *
  */
+/*
 @Config
 public class StandardTrackingWheelLocalizer extends ThreeTrackingWheelLocalizer {
     public static double TICKS_PER_REV = 0;
@@ -97,3 +98,4 @@ public class StandardTrackingWheelLocalizer extends ThreeTrackingWheelLocalizer 
         );
     }
 }
+ */

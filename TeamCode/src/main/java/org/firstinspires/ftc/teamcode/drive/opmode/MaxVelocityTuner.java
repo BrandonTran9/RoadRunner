@@ -1,5 +1,5 @@
 package org.firstinspires.ftc.teamcode.drive.opmode;
-
+/*
 import com.acmerobotics.dashboard.FtcDashboard;
 import com.acmerobotics.dashboard.config.Config;
 import com.acmerobotics.dashboard.telemetry.MultipleTelemetry;
@@ -24,6 +24,7 @@ import java.util.Objects;
  * <p>
  * Further fine tuning of kF may be desired.
  */
+/*
 @Config
 @Autonomous(group = "drive")
 public class MaxVelocityTuner extends LinearOpMode {
@@ -82,3 +83,4 @@ public class MaxVelocityTuner extends LinearOpMode {
         return inchesPerSec / (2 * Math.PI * DriveConstants.WHEEL_RADIUS) / DriveConstants.GEAR_RATIO * DriveConstants.TICKS_PER_REV;
     }
 }
+ */

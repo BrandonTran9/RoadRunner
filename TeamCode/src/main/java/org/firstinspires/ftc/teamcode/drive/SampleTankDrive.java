@@ -1,5 +1,5 @@
 package org.firstinspires.ftc.teamcode.drive;
-
+/*
 import androidx.annotation.NonNull;
 
 import com.acmerobotics.dashboard.config.Config;
@@ -52,6 +52,7 @@ import static org.firstinspires.ftc.teamcode.drive.DriveConstants.kV;
 /*
  * Simple tank drive hardware implementation for REV hardware.
  */
+/*
 @Config
 public class SampleTankDrive extends TankDrive {
     public static PIDCoefficients AXIAL_PID = new PIDCoefficients(0, 0, 0);
@@ -303,3 +304,5 @@ public class SampleTankDrive extends TankDrive {
         return new ProfileAccelerationConstraint(maxAccel);
     }
 }
+
+ */

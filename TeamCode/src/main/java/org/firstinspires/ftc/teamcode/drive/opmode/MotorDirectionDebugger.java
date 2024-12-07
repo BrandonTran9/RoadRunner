@@ -1,5 +1,5 @@
 package org.firstinspires.ftc.teamcode.drive.opmode;
-
+/*
 import com.acmerobotics.dashboard.FtcDashboard;
 import com.acmerobotics.dashboard.config.Config;
 import com.acmerobotics.dashboard.telemetry.MultipleTelemetry;
@@ -38,6 +38,7 @@ import org.firstinspires.ftc.teamcode.drive.SampleMecanumDrive;
  *
  * Uncomment the @Disabled tag below to use this opmode.
  */
+/*
 @Disabled
 @Config
 @TeleOp(group = "drive")
@@ -91,3 +92,4 @@ public class MotorDirectionDebugger extends LinearOpMode {
         }
     }
 }
+ */

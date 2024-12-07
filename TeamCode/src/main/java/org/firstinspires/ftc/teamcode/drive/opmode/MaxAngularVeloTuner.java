@@ -1,5 +1,5 @@
 package org.firstinspires.ftc.teamcode.drive.opmode;
-
+/*
 import com.acmerobotics.dashboard.FtcDashboard;
 import com.acmerobotics.dashboard.config.Config;
 import com.acmerobotics.dashboard.telemetry.MultipleTelemetry;
@@ -21,7 +21,7 @@ import java.util.Objects;
  * <p>
  * Further fine tuning of MAX_ANG_VEL may be desired.
  */
-
+/*
 @Config
 @Autonomous(group = "drive")
 public class MaxAngularVeloTuner extends LinearOpMode {
@@ -71,3 +71,4 @@ public class MaxAngularVeloTuner extends LinearOpMode {
         while (!isStopRequested()) idle();
     }
 }
+ */

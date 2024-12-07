@@ -28,7 +28,7 @@
  */
 
 package org.firstinspires.ftc.robotcontroller.external.samples;
-
+/*
 import android.util.Size;
 import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
@@ -48,6 +48,7 @@ import java.util.List;
  * Use Android Studio to Copy this Class, and Paste it into your team's code folder with a new name.
  * Remove or comment out the @Disabled line to add this OpMode to the Driver Station OpMode list.
  */
+/*
 @TeleOp(name = "Concept: TensorFlow Object Detection", group = "Concept")
 @Disabled
 public class ConceptTensorFlowObjectDetection extends LinearOpMode {
@@ -68,11 +69,13 @@ public class ConceptTensorFlowObjectDetection extends LinearOpMode {
     /**
      * The variable to store our instance of the TensorFlow Object Detection processor.
      */
+/*
     private TfodProcessor tfod;
 
     /**
      * The variable to store our instance of the vision portal.
      */
+/*
     private VisionPortal visionPortal;
 
     @Override
@@ -114,6 +117,7 @@ public class ConceptTensorFlowObjectDetection extends LinearOpMode {
     /**
      * Initialize the TensorFlow Object Detection processor.
      */
+/*
     private void initTfod() {
 
         // Create the TensorFlow processor by using a builder.
@@ -178,6 +182,7 @@ public class ConceptTensorFlowObjectDetection extends LinearOpMode {
     /**
      * Add telemetry about TensorFlow Object Detection (TFOD) recognitions.
      */
+/*
     private void telemetryTfod() {
 
         List<Recognition> currentRecognitions = tfod.getRecognitions();
@@ -197,3 +202,4 @@ public class ConceptTensorFlowObjectDetection extends LinearOpMode {
     }   // end method telemetryTfod()
 
 }   // end class
+ */

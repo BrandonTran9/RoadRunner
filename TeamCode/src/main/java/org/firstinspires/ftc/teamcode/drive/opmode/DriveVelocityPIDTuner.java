@@ -48,6 +48,7 @@ import java.util.List;
  * user to reset the position of the bot in the event that it drifts off the path.
  * Pressing B/O (Xbox/PS4) will cede control back to the tuning process.
  */
+/*
 @Config
 @Autonomous(group = "drive")
 public class DriveVelocityPIDTuner extends LinearOpMode {
@@ -58,12 +59,14 @@ public class DriveVelocityPIDTuner extends LinearOpMode {
         TUNING_MODE
     }
 
+    /*
     private static MotionProfile generateProfile(boolean movingForward) {
         MotionState start = new MotionState(movingForward ? 0 : DISTANCE, 0, 0, 0);
         MotionState goal = new MotionState(movingForward ? DISTANCE : 0, 0, 0, 0);
         return MotionProfileGenerator.generateSimpleMotionProfile(start, goal, MAX_VEL, MAX_ACCEL);
     }
-
+     */
+/*
     @Override
     public void runOpMode() {
         if (!RUN_USING_ENCODER) {
@@ -169,3 +172,4 @@ public class DriveVelocityPIDTuner extends LinearOpMode {
         }
     }
 }
+ */
